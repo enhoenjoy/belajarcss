@@ -31,7 +31,7 @@ p{
 }
 #kotak_dua{
     height: 100px;
-    width: 500px;px;
+    width: 500px;
     background-color: greenyellow; 
     margin-bottom:10px;
 }
@@ -40,4 +40,10 @@ p{
     width: 100px;
     background-color: peru;
     border-radius: 80px;
+}
+#bikinbg{
+    width: 500px;
+    height: 200px;
+    background-color: yellowgreen;
+    color: gainsboro;
 }
